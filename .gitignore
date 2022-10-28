@@ -10,10 +10,10 @@ pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
-
+/src/app.module.ts
 # OS
 .DS_Store
-
+.env
 # Tests
 /coverage
 /.nyc_output
